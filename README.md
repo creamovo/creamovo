@@ -113,26 +113,22 @@ AI 플랫폼 기획 및 구축
 
 ## 🎓 Education & Certifications
 
-<table>
-<tr>
-<td valign="top" width="50%">
+![학사 · 일어일문학](https://img.shields.io/badge/학사%20·%20일어일문학-CDB4DB?style=flat-square&logoColor=white)<br/>
+**세종대학교**<br/>
+<sub>`2010 ~ 2015`</sub>
 
-**🎓 Education**
+<br/>
 
-- **세종대학교** 일어일문학 학사 <sub>`2010 ~ 2015`</sub>
-- **미에대학교** 일본 교환학생 <sub>`2012`</sub>
+![교환학생 · 일본](https://img.shields.io/badge/교환학생%20·%20일본-A2D2FF?style=flat-square&logoColor=white)<br/>
+**미에대학교**<br/>
+<sub>`2012`</sub>
 
-</td>
-<td valign="top" width="50%">
+<br/>
 
-**📜 Certifications**
+![자격증](https://img.shields.io/badge/자격증-B5EAD7?style=flat-square&logoColor=white)
 
 - 정보처리기사
 - SQLD
-
-</td>
-</tr>
-</table>
 
 <br/>
 
