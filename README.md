@@ -111,7 +111,7 @@ AI 플랫폼 기획 및 구축
 
 <br/>
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 ![학사 · 일어일문학](https://img.shields.io/badge/학사%20·%20일어일문학-CDB4DB?style=flat-square&logoColor=white)<br/>
 **세종대학교**<br/>
@@ -124,6 +124,8 @@ AI 플랫폼 기획 및 구축
 <sub>`2012`</sub>
 
 <br/>
+
+## 📜 Certifications
 
 ![자격증](https://img.shields.io/badge/자격증-B5EAD7?style=flat-square&logoColor=white)
 
