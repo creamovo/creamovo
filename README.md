@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&width=600&lines=End-to-End+로+제품을+만드는+개발자;기획+%E2%86%92+설계+%E2%86%92+Frontend+%E2%86%92+Backend+%E2%86%92+Cloud;AI+플랫폼+기획+%26+구축+%7C+Product+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&width=600&lines=End-to-End%20%EB%A1%9C%20%EC%A0%9C%ED%92%88%EC%9D%84%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90;%EA%B8%B0%ED%9A%8D%20%E2%86%92%20%EC%84%A4%EA%B3%84%20%E2%86%92%20Frontend%20%E2%86%92%20Backend%20%E2%86%92%20Cloud;AI%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EA%B8%B0%ED%9A%8D%20%26%20%EA%B5%AC%EC%B6%95%20%7C%20Product%20Builder" alt="Typing SVG" />
 </a>
 
 </div>
@@ -141,17 +141,6 @@ AI 플랫폼 기획 및 구축
 ![Korean](https://img.shields.io/badge/한국어-Native-CDB4DB?style=flat-square)
 ![English](https://img.shields.io/badge/English-업무_소통_가능-A2D2FF?style=flat-square)
 ![Japanese](https://img.shields.io/badge/日本語-업무_소통_가능-FFAFCC?style=flat-square)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=creamovo&show_icons=true&hide_border=true&bg_color=00000000&title_color=B19CD9&icon_color=FFAFCC&text_color=9C8FB5" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creamovo&layout=compact&hide_border=true&bg_color=00000000&title_color=B19CD9&text_color=9C8FB5" />
-
-</div>
 
 <br/>
 
