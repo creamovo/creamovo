@@ -1,16 +1,12 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc3d8,100:ff8fab&height=300&section=header&text=Mingyung%20Lee&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=End-to-End%20Product%20Developer&descAlignY=58&descSize=20" width="100%" />
 
+<a href="https://github.com/creamovo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6F91&center=true&vCenter=true&width=680&lines=%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0+%EC%84%A4%EA%B3%84%2C+Frontend%C2%B7Backend%2C+Cloud%EA%B9%8C%EC%A7%80;End-to-End%EB%A1%9C+%EC%A0%9C%ED%92%88%EC%9D%84+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;AI+Platform+%7C+SaaS+%7C+Cloud+Infra" alt="Typing SVG" />
+</a>
 
-
-  
-
-
-
-
-
-
-  
-
+</div>
 
 > 기획부터 설계, Frontend·Backend 개발, 클라우드 서버 관리까지 —
 > 자영업 · 스타트업 · 유통 · 보험 · 금융 등 다양한 업계를 넘나들며 **End-to-End로 제품을 만들어온 개발자**입니다.
