@@ -96,8 +96,6 @@
 
 `Korean` · `English` · `Japanese`
 
-## 📫 Contact
-
 
 
 
