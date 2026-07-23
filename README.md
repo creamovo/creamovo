@@ -1,9 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc3d8,100:ff8fab&height=250&section=header&text=Mingyung%20Lee&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=End-to-End%20Product%20Developer&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd7e6,40:ff8fab,75:c98bd9,100:8ec5ff&height=250&section=header&text=%F0%9F%8C%B8%20Mingyung%20Lee%20%F0%9F%8C%B8&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=End-to-End%20Product%20Developer&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://github.com/creamovo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6F91&center=true&vCenter=true&width=680&lines=%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0+%EC%84%A4%EA%B3%84%2C+Frontend%C2%B7Backend%2C+Cloud%EA%B9%8C%EC%A7%80;End-to-End%EB%A1%9C+%EC%A0%9C%ED%92%88%EC%9D%84+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;AI+Platform+%7C+SaaS+%7C+Cloud+Infra" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Platform-FF6F91?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/SaaS-C98BD9?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Infra-8EC5FF?style=flat-square&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=creamovo&style=flat-square&color=ff8fab&label=Profile+Views" />
+<a href="https://github.com/creamovo?tab=followers">
+  <img src="https://img.shields.io/github/followers/creamovo?style=flat-square&color=ff8fab&label=Followers&logo=github&logoColor=white" />
 </a>
 
 </div>
